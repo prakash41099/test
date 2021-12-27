@@ -21,4 +21,5 @@
 |LLR_03| User shall be able to view the output |HLR_02|The outout is stored in the spreadsheet once the program is executed|The system reads the spreadsheet |The system creates new entries int the excel sheet as programmed by the programmer|Requirement Based|Pass|
 |LLR_04|The system should able to mark TRUE if the student is Present |HLR_03|the system should return TRUE|The data given in the spreadsheet is of "P(2/2)" which states that student is present  |The system returns TRUE|Scenario Based|Pass|
 |LLR_05|The system should able to mark FALSE if the student is Present |HLR_03|the system should return FALSE|The data given in the spreadsheet is of "?" which states that student is absent  |The system returns FALSE|Scenario Based|Pass|
-|LLR_05|The system should able to plot the bar graph |HLR_04|the system should plot the graph|The data given in the spreadsheet is of "?" which states that student is absent  |The system returns FALSE|Scenario Based|Pass|
+|LLR_05|The system should able to plot the bar graph which contains both present and absentees |HLR_04|the system should plot the bar graph with the total no of students in x-axis and no.of days in y-axis in %  |The data of the students are given on the spreadsheet  |The system displays the bargraph|Requirement Based|Pass|
+
